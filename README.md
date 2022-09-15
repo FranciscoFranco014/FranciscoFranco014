@@ -5,9 +5,7 @@
 <a href="https://www.linkedin.com/in/franciscofranco/">
   <img align="left" alt="Francisco's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/11161210874">
-  <img align="left" alt="Francisco's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=FranciscoFranco014.FranciscoFranco014)
 
@@ -15,7 +13,7 @@
 
 Hi, I'm [Francisco Franco]
 
-
+<br />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:reifk14@gmail.com) :)
