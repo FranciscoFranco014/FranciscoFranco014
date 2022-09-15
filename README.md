@@ -27,27 +27,11 @@ Hi, I'm [Francisco Franco]
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JSX          00 hrs 15 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-JavaScript   15 hr 1 min     ███████████░░░░░░░░░░░░░░   22.43 % 
-CSS          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-JSON         00 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-HTML         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-```
-<!--END_SECTION:waka-->
 
 
 
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  531 Pepe Points           
-🌸  Completed 2 tasks today           
-✅  Completed 999 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+
 
 
 📈 My GitHub Stats
