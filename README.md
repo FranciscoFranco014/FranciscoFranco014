@@ -2,7 +2,7 @@
 <a href="https://twitter.com/pepecai14">
   <img align="left" alt="Francisco Franco | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/franciscofranco/">
+<a href="https://www.linkedin.com/in/francisofranco/">
   <img align="left" alt="Francisco's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
